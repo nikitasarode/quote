@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import GlobelContext from './Globel'
+import GlobelContext from './Context/Globel'
 
 export default function MainSection() {
 
